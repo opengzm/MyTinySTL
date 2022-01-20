@@ -7,7 +7,7 @@ set(MyTinySTL_VERSION_MAJOR 2)
 set(MyTinySTL_VERSION_MINOR 0)
 set(MyTinySTL_VERSION_PATCH 0)
 set(MyTinySTL_VERSION "${MyTinySTL_VERSION_MAJOR}.${MyTinySTL_VERSION_MINOR}.${MyTinySTL_VERSION_PATCH}")
-message(STATUS "The version of this project is : ${MyTinySTL_VERSION}")
+message(STATUS "The version of this project is     : ${MyTinySTL_VERSION}")
 
 # build type
 set(CMAKE_BUILD_TYPE release)
